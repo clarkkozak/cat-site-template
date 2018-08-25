@@ -10,6 +10,9 @@ export class EngagmentComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    let navbar = document.querySelector(".panel-transparent")
+    navbar.classList.add("panel-black")
   }
+ 
 
 }
