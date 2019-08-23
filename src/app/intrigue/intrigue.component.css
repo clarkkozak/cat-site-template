@@ -1,5 +1,7 @@
 .container {
     text-align: center;
+    margin-bottom: 24px;
+    /* height: 384px; I want to be able to adjust the height without affecting the cotents*/
 }
 
 .circle {

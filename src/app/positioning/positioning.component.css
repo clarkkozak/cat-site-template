@@ -1,0 +1,46 @@
+.col-lg-6 {
+    height: 464px;
+    padding: 0px;
+    text-align: left;
+}
+
+/* .container-fluid {
+    border-top: 1px solid black;
+} */
+
+#right {
+    /* background-image: url("/src/assets/positioning1.jpg");
+    background-size: cover; */
+
+    background:
+      linear-gradient(rgba(255, 153, 0, 0.5),rgba(255, 217, 0, 0.45)),
+      url('/src/assets/positioning1.jpg') no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#left {
+    background-image: linear-gradient(rgba(255, 153, 0, 0.6), rgba(255, 217, 0, 0.5));
+    padding: 64px;
+    overflow: visible;
+}
+
+
+h3, h4, p {
+    margin-bottom: 32px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+p {
+    font-size: 16px;
+    text-align: justify;
+}

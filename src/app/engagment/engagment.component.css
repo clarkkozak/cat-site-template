@@ -7,17 +7,12 @@
     background-color: black !important;
 }
 
-
-.nav-item {
-
-}
-
 .jumbotron {
     color: #EFEFEF;
     height: 500px;
     background-image: url(/src/assets/moon.jpg); 
     background-size: cover;
-    margin-top: -55.4605px;
+    margin-top: -55px;
     border-radius: 0px;
 }
 
